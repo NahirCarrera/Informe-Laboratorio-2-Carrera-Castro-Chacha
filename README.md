@@ -20,10 +20,17 @@
     
 ## 3. Explicación del Procedimiento
    ## Materiales
- 
-  ## Procedimiento
+  * 2 Fuentes de voltaje CD
+  * 3 Multímetros Digitales
+  * 1 Resistor (820 ohms)
+  * 1 Resistor (390 ohms)
+  * 1 Resistor (1 kohms)
+  * 1 Resistor (1.2 kohms)
+  * 1 Resistor (2.2 kohms)
+  * 1 Protoboard
+   ## Procedimiento
 
-  ## Cálculos de Respaldo
+   ## Cálculos de Respaldo
   
 
 ## 4. Respuesta a Interrogantes y cálculo de error
