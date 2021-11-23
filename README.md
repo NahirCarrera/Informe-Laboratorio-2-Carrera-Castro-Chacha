@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * 
+  * Comprobar experimentalmente el Análisis de Mallas del circuito correspondiente a la presente práctica
   ### Específicos
-  * 
-  * 
-  * 
+  * Explicar el método de análisis de mallas a travéz de herramientas visuales para tener un sustento claro para la realización de la práctica.
+  * Modelar el circuito planteado en la práctica a travéz del simulado Multisim live y el laboratorio virtual Tinkercad para la correspondiente toma de datos.
+  * Exponer la ejecución de la práctica a travéz de un archivo multimedia para fundamentar los resultados obtenidos a través de la práctica.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
   
