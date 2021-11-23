@@ -66,7 +66,7 @@ _Tabla 2.3 Cálculo de error Resultados analíticos - simulados_
 ![image](https://user-images.githubusercontent.com/93829962/142962802-8fe2c088-f52b-4b73-af6c-37cfe051c903.png)
 
 ## 5. Video
-  *  
+  * https://www.youtube.com/watch?v=1bs8Gh-Z1HI 
 ## 6. Conclusiones
   * En conclusión, tras haber culminado la práctica de laboratorio se pudo comprobar las múltiples aplicaciones que tienen las leyes de Kirchhoff y Ohm para calcular el valor que corresponde a las corrientes de las mallas que se muestran en el diagrama esquemático del circuito. Para el presente trabajo se realizó la toma de mediciones por medio de tres métodos: analítico, simulado y experimental. En cuanto a la parte analítica se aplicó las leyes mencionadas con anterioridad, puesto que la ley de los voltajes de Kirchhoff menciona que la sumatoria de los voltajes de una malla debe ser igual a cero, con esto fue posible establecer un sistema de ecuaciones por el cual se obtenga los datos de la corriente de cada malla. Por otro lado, los datos experimentales fueron recopilados con la ayuda de la página web Tinkercad, mientras que para correr la simulación del circuito se recurrió al simulador Multisim para realizar la respectiva esquematización del circuito, ambos simuladores cuentan con las respectivas herramientas para realizar mediciones de corriente. Cabe mencionar que ambas páginas web han sido herramientas muy útiles debido a su facilidad de manejo, y en cuanto a la recopilación de datos han sido útiles para corroborar que los datos obtenidos de forma analítica son correctos.
 ## 7. Bibliografía
