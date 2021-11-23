@@ -15,9 +15,9 @@
   * Exponer la ejecución de la práctica a travéz de un archivo multimedia para fundamentar los resultados obtenidos a través de la práctica.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
-  
+  ![Materiales](https://user-images.githubusercontent.com/93829962/142961043-0ba46bdf-ad7e-419f-a598-2b771f777815.jpeg)
   ## <p align=center> Análisis de Mallas
-    
+  ![Análisis de Mallas](https://user-images.githubusercontent.com/93829962/142961052-fc86c13f-a7a9-4fb3-b145-d71967c828a8.jpeg)
 ## 3. Explicación del Procedimiento
    ## Materiales
   * 2 Fuentes de voltaje CD
