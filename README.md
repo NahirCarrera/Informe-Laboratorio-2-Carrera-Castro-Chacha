@@ -29,9 +29,10 @@
   * 1 Resistor (2.2 kohms)
   * 1 Protoboard
    ## Procedimiento
-## <p align=center> Simulación
-  1. Implementar el circuito que se muestra a continuación utilizando el simulador Multisim:
 ![image](https://user-images.githubusercontent.com/93786746/142958589-63f89954-5ec2-4ab4-9a5c-6201bbfd04b6.png)
+## <p align=center> Simulación
+  1. Implementar el circuito mostrado utilizando el simulador Multisim:
+
 ![Gráfico  esquemático](https://user-images.githubusercontent.com/93786746/142958657-6cec8399-f53d-4a44-a970-2cd37152ee87.PNG)
 _Ilustración 1. Implementación del circuito en el simulador Multisim_  
   
@@ -48,7 +49,8 @@ _Ilustración 3. Implementación del circuito en laboratorio virtual Tinkercad_
   2. Medir la corriente de cada una de las mallas y anotar los resultados en la tabla 2.1
 ![Mediciones](https://user-images.githubusercontent.com/93786746/142959437-91ea4dfa-4b08-4ebe-8cb4-7679df37f849.PNG)
 _Ilustración 4. Implementación del circuito en laboratorio virtual Tinkercad_
-  
+  3. Comparar los valores de la tabla 2.1 de los resultados analíticos, simulados y experimentales.
+  4. Establecer un porcentaje de error y realizar conclusiones.
   ## Cálculos de Respaldo
   ## <p align=center> Analítico
 ![image](https://user-images.githubusercontent.com/93829962/142961422-0d9a5390-65e8-41ac-bb17-643abcfc9405.png)
